@@ -1,7 +1,7 @@
-This project is a univeristy course project about Image elaboration,
-specifically focussing on movement detection in static background.
-Tools used are OpenCV and Visual MFC classes.
+This project is a university course project about Image processing,
+specifically focusing on movement detection over a static background.
 
+Tools used are OpenCV and Visual MFC classes.
 
 The relevant parts of the project are in src/ElabImageDlg.cpp
 - CElabImageDlg::myFun
